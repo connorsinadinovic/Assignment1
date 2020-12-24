@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1 {
+    color: black;
+}
+
+h2 {
+    background-color: black;
+	color: white;
+	font-style:italic;
+	padding-left: 10px;
+}
+
+.profilepic {
+  padding-top: 0px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.basicinfo {
+	padding-top: 20px;
+	padding-bottom: 80px;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+.interestinfo {
+  padding-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: justify;
+}
+
+
+
+.idealjob {
+  padding-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: justify;
+}
+
+
+.jobpic {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  
+}
+
+.idea {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+  
+}
+
+.results {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+  
+}
+
+.caption {
+	font-size:12px;
+	font-style:italic;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+
+
+
